@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.Form1.resources
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\bin\Debug\Negocios.dll
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\bin\Debug\Datos.dll
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\bin\Debug\Negocios.pdb
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\bin\Debug\Datos.pdb
+C:\Users\angel\OneDrive\Documentos\Angel\C# proyectos\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.CopyComplete
